@@ -5,20 +5,20 @@
     "main.js.map": "/task-manager-simulator/static/js/main.fc0d5c45.chunk.js.map",
     "runtime-main.js": "/task-manager-simulator/static/js/runtime-main.12aa5210.js",
     "runtime-main.js.map": "/task-manager-simulator/static/js/runtime-main.12aa5210.js.map",
-    "static/css/2.17e5ed98.chunk.css": "/task-manager-simulator/static/css/2.17e5ed98.chunk.css",
-    "static/js/2.2eea03e9.chunk.js": "/task-manager-simulator/static/js/2.2eea03e9.chunk.js",
-    "static/js/2.2eea03e9.chunk.js.map": "/task-manager-simulator/static/js/2.2eea03e9.chunk.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/task-manager-simulator/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.9ab9606d.chunk.js": "/task-manager-simulator/static/js/2.9ab9606d.chunk.js",
+    "static/js/2.9ab9606d.chunk.js.map": "/task-manager-simulator/static/js/2.9ab9606d.chunk.js.map",
     "index.html": "/task-manager-simulator/index.html",
-    "precache-manifest.19651a53c9163135a36b1309a865beab.js": "/task-manager-simulator/precache-manifest.19651a53c9163135a36b1309a865beab.js",
+    "precache-manifest.a2d59dedfaa3ce510ee96ae8b6d260f0.js": "/task-manager-simulator/precache-manifest.a2d59dedfaa3ce510ee96ae8b6d260f0.js",
     "service-worker.js": "/task-manager-simulator/service-worker.js",
-    "static/css/2.17e5ed98.chunk.css.map": "/task-manager-simulator/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/2.47e06e2e.chunk.css.map": "/task-manager-simulator/static/css/2.47e06e2e.chunk.css.map",
     "static/css/main.ee3673a3.chunk.css.map": "/task-manager-simulator/static/css/main.ee3673a3.chunk.css.map",
-    "static/js/2.2eea03e9.chunk.js.LICENSE.txt": "/task-manager-simulator/static/js/2.2eea03e9.chunk.js.LICENSE.txt"
+    "static/js/2.9ab9606d.chunk.js.LICENSE.txt": "/task-manager-simulator/static/js/2.9ab9606d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.12aa5210.js",
-    "static/css/2.17e5ed98.chunk.css",
-    "static/js/2.2eea03e9.chunk.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.9ab9606d.chunk.js",
     "static/css/main.ee3673a3.chunk.css",
     "static/js/main.fc0d5c45.chunk.js"
   ]
